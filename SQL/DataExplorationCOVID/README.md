@@ -1,6 +1,6 @@
-# 🧮 COVID-19 Data Exploration (SQL Project)
+# COVID-19 Data Exploration (SQL Project)
 
-## 📘 Project Overview
+## Project Background
 This project explores global **COVID-19 data** to analyze trends in infections, deaths, and vaccinations across countries and continents.  
 The goal is to practice **data exploration and transformation using SQL** while uncovering patterns about the pandemic’s global impact.
 
@@ -50,8 +50,4 @@ The dataset is publicly available for educational and analytical purposes.
 - 💉 The vaccination data shows a strong upward rolling trend  confirming effective distribution in several regions.
 - 📊 Combining infections, deaths, and vaccinations provides a holistic view of pandemic control efficiency.
 
-## ✍️ Author
-**James**  
-🎓 Computer Science Student — *Tarumanagara University (Indonesia)*  
-📊 Passionate about Data Analytics, Business Intelligence, and Storytelling through Data  
-📍 Jakarta, Indonesia  
+
