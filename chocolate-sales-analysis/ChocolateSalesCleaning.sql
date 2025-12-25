@@ -1,9 +1,6 @@
 /******************************************************************
 ETL PIPELINE – Chocolate Sales Data
-Author       : James Anderson
-Database     : -
-Schema       : -
-Description  : Cleans and prepares chocolate_sales table for BI tools
+Description  : Cleans and prepares data for visualization
 Date Created : CURRENT_DATE
 ******************************************************************/
 
@@ -118,7 +115,7 @@ WHERE amount_num < 0 OR "Boxes Shipped" < 0;
 
 
 -------------------------------
--- STEP 5. OUTLIER DETECTION (OPTIONAL)
+-- STEP 5. OUTLIER DETECTION
 -------------------------------
 -- Identify potential outliers based on IQR method
 WITH stats AS (
@@ -140,7 +137,7 @@ WHERE c.amount_num > (s.q3 + 1.5 * (s.q3 - s.q1))
 
 
 -------------------------------
--- STEP 6. CREATE CLEAN VIEW (LOAD)
+-- STEP 6. CREATE CLEAN VIEW 
 -------------------------------
 -- Create a clean version of the dataset for Power BI / Tableau
 CREATE OR REPLACE VIEW chocolate_sales_clean AS
@@ -162,6 +159,5 @@ SELECT * FROM chocolate_sales_clean LIMIT 10;
 
 
 ------------------------------------------------------------------
--- ✅ ETL PIPELINE COMPLETED SUCCESSFULLY
--- Clean view "chocolate_sales_clean" is now ready for BI tools.
+-- PIPELINE END
 ------------------------------------------------------------------
