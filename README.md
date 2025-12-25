@@ -12,7 +12,7 @@ Each folder contains individual projects.
 | Project | Description | Link |
 |----------|--------------|------|
 | COVID Data Exploration | Exploring COVID deaths and vaccination data | [View Project](./SQL/DataExplorationCOVID) |
-| Chocolate Sales ETL Pipeline | Building a complete SQL-based ETL pipeline and data cleaning process using PostgreSQL | [View Project](./ChocolateSalesETLProject) |
+| Chocolate Sales Analysis | Analyze Business Sales, Build ETL pipeline for data cleaning, Build Dashboard, Answering Business Question, Make Recommendation | [View Project](./chocolate-sales-analysis) |
 | Airbnb Market Analysis | Visualization of Airbnb listings and pricing patterns | [View Project](./Tableau/AirbnbMarketAnalysis) |
 | Global COVID-19 Analysis | Visualization of Global COVID-19 data  | [View Project](./Tableau/COVID19) |
 | Sales & Customer Satisfaction Analysis | Analyzing sales and delivery performance to find factors causing customer satisfaction drop | [View Project](./PowerBI/SalesCustomerSatisfaction) |
