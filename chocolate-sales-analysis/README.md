@@ -45,7 +45,7 @@ Develop a ETL process using SQL and a Power BI dashboard to:
 3. **Mitigate Monthly Sales Fluctuations** — Conduct detailed analysis to identify the causes of sales volatility (seasonality, promotions, market trends). Implement targeted campaigns or stock adjustments during historically low months such as February, March, and April.
 4. **Optimize Performance in Key Markets** — Focus on the Australian market with targeted promotions, partnerships, or digital marketing campaigns. Explore opportunities in other potentional market such UK, India, USA to diversify revenue sources
 
---
+---
 
 ## ETL Workflow (PostgreSQL)
 
