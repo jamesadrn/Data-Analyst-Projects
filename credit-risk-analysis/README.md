@@ -59,6 +59,11 @@ Power Query steps are documented and reproducible.
 
 ---
 
+## Dashboard Preview
+
+![Credit Risk Dashboard](credit_risk_dashboard.png)
+---
+
 ## Dashboard Overview
 The Excel dashboard provides insights into:
 
