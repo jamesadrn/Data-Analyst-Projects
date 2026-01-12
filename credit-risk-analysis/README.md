@@ -28,7 +28,7 @@ Due to dataset size, the data was:
 - Fully processed using Power Query
 
 Dataset link:  
-https://www.kaggle.com/datasets/wordsforthewise/lending-club
+https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
 
 ## Tools Used
 - Microsoft Excel
