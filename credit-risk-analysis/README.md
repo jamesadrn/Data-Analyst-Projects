@@ -47,7 +47,7 @@ All transformations were performed in Excel using Power Query:
 - Removed missing values and duplicates
 - Feature engineering:
   - `default_flag`  
-    - 1 = Charged Off  
+    - 1 = Charged Off, Default  
     - 0 = Fully Paid  
   - `dti_bucket`
     - Very Low (<10)
