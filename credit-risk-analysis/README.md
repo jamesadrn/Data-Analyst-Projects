@@ -16,6 +16,22 @@ Using Excel and Power Query, the data was cleaned, transformed, and analyzed to 
 
 ---
 
+## Key Insights
+- Default rate increases significantly with higher loan grades (D–G)
+- Borrowers with DTI ≥ 30% show the highest default risk
+- Home Ownership categorize as 'Renters' have higher average default rates compared to 'mortgage' holders
+- Certain loan purposes such as 'small business' and 'medical' exhibit higher default risk
+- Trend-based projection indicates a continued elevated default rate into 2017, assuming historical patterns persist
+
+---
+
+## Business Recommendation
+- Tighten High-Risk Lending Criteria – Cap loan amounts for borrowers with DTI ≥30% and implement stricter verification for loan grades D-G. Decline applications with DTI >35% in grades E-G to reduce default risk by 15-25%.
+- Enhanced Screening for Risky Loan Purposes – Require business plans for small business loans and insurance verification for medical loans. Cap initial amounts at $15K for these high-risk categories to reduce defaults by 10-15%.
+- Rebalance Portfolio Concentration – Reduce loan origination for grades E-G by 30-40% and shift capital allocation toward grades A-C to improve overall portfolio stability and credit quality.
+
+---
+
 ## Dataset Information
 Source: Lending Club Loan Dataset (Kaggle)  
 - Covers loan data issued within multiple years
@@ -92,15 +108,6 @@ Dashboard includes interactive filters:
 - Year
 - Loan term (36 / 60 months)
 - Issue month
-
----
-
-## Key Insights
-- Default rate increases significantly with higher loan grades (D–G)
-- Borrowers with DTI ≥ 30% show the highest default risk
-- Home Ownership categorize as 'Renters' have higher average default rates compared to 'mortgage' holders
-- Certain loan purposes such as 'small business' and 'medical' exhibit higher default risk
-- Trend-based projection indicates a continued elevated default rate into 2017, assuming historical patterns persist
 
 ---
 
