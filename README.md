@@ -1,21 +1,47 @@
-# 📊 Data Analytics Portfolio
+# 🚀 Data Analytics Projects
 
-Welcome to my data analytics project repository. This portfolio demonstrates my ability to transform raw data into actionable business insights through structured analytical approaches.
-
-## 🎯 Overview
-This repository features analytics projects that showcase:
-- End-to-end data workflows from extraction to visualization
-- SQL database querying and data manipulation
-- Python for statistical analysis and data processing
-- Business intelligence dashboards using Power BI
-- Data-driven problem solving and business recommendations
+Welcome to my Data Analytics Projects Repository! This repository contains a collection of my data analytics projects, Each folder demonstrates one projects and demonstrates diffrent aspect of data analysis.
 
 ---
 
-## 🗂️ Projects  
-| Project | Description | Tools | Link |
-|----------|--------------|-------|------|
-| Chocolate Sales Analysis | Analyze Business Sales, Build ETL pipeline for data cleaning, Build Dashboard, Answering Business Question, Make Recommendation | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | [View Project](./chocolate-sales-analysis) |
-| E-Commerce Customer Satisfaction Analysis | Analyzes the root cause behind customer satisfaction decline in certain timeline and build dashboard to maintain | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | [View Project](./ecommerce-customer-satisfaction) |
-| Credit Risk Analysis | Analyze credit risk and loan performance patterns, identify default behavior across borrower attributes, perform data transformation using Power Query, build interactive dashboard | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) | [View Project](./credit-risk-analysis) |
+## 💡 What Sets Me Apart
+
+🔍 **Problem-Solver First** – I don't just report numbers; I uncover the "why" and recommend the "what next"  
+📊 **Full-Stack Analytics** – Comfortable with SQL databases, Python analysis, and BI visualization  
+💼 **Business-Focused** – Every insight is tied to measurable impact and clear recommendations  
+🎯 **Detail-Oriented** – From data quality validation to executive-ready dashboards
+
 ---
+
+## 🗂️ Featured Projects
+
+### 🍫 Chocolate Sales Analysis
+Built ETL pipeline in PostgreSQL and Power BI dashboard analyzing sales across products, regions, and sales teams. Identified top product and revealed seasonal sales patterns with actionable optimization strategies.
+
+**Impact:** Revealed 22% revenue volatility and pinpointed underperforming months for targeted campaigns
+
+**Stack:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**[📂 View Project →](./chocolate-sales-analysis)**
+
+---
+
+### 🛒 E-Commerce Customer Satisfaction Analysis
+Performed root cause analysis on customer satisfaction drivers using 100K+ orders for Brazilian e-commerce platform.
+
+**Impact:** Identified operational bottlenecks drives customer satisfaction drop, build dashboard to maintain and monitor operational, provide data-driven recommendations.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**[📂 View Project →](./ecommerce-customer-satisfaction)**
+
+---
+
+### 💳 Credit Risk Analysis
+Analyzed 1M+ loan records from Lending Club to identify default patterns across borrower profiles. Built interactive Excel dashboard with Power Query, featuring risk segmentation and 12-month default rate projection.
+
+**Impact:** Identified high-risk segments (DTI ≥30%, grades D-G) with 15-25% elevated default rates.
+
+**Stack:** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**[📂 View Project →](./credit-risk-analysis)**
