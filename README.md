@@ -1,6 +1,6 @@
 # 🚀 Data Analytics Projects
 
-Welcome to my Data Analytics Projects Repository! This repository contains a collection of my data analytics projects, Each folder demonstrates one projects and demonstrates diffrent aspect of data analysis.
+Welcome to my Data Analytics Projects Repository! This repository contains a collection of my data analytics projects. Each folder demonstrates one project and demonstrates different aspects of data analysis.
 
 ---
 
@@ -29,7 +29,7 @@ Built ETL pipeline in PostgreSQL and Power BI dashboard analyzing sales across p
 ### 🛒 E-Commerce Customer Satisfaction Analysis
 Performed root cause analysis on customer satisfaction drivers using 100K+ orders for Brazilian e-commerce platform.
 
-**Impact:** Identified operational bottlenecks drives customer satisfaction drop, build dashboard to maintain and monitor operational, provide data-driven recommendations.
+**Impact:** Identified operational bottlenecks driving customer satisfaction drop, built dashboard to maintain and monitor operations, provided data-driven recommendations.
 
 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
@@ -45,3 +45,31 @@ Analyzed 1M+ loan records from Lending Club to identify default patterns across 
 **Stack:** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **[📂 View Project →](./credit-risk-analysis)**
+
+---
+
+### 📢 Performance Analysis on Data Analytics Course Campaign
+End-to-end campaign analysis from raw data processing to interactive dashboard. Analyzed 2,244 ads with 10M+ impressions, processing Google Ads data through 15-step Power Query pipeline with funnel validation and feature engineering.
+
+**Impact:** Achieved 658% ROAS with $10.79M margin on $1.93M spend. Identified November performance peak (1,373% ROAS) and device-intent optimization opportunities.
+
+**Stack:** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**[📂 View Project →](./performance-analysis-data-analytics-campaign)** | **[📊 Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Tools:** Python, SQL (PostgreSQL, MySQL), Excel, Power Query, DAX  
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+**Analysis:** Statistical Analysis, A/B Testing, Cohort Analysis, Funnel Analysis, Root Cause Analysis  
+**Data Engineering:** ETL Pipelines, Data Cleaning, Feature Engineering, Data Validation
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing data analytics, potential collaborations, or interesting problems to solve!
+
+⭐ **If you find these projects valuable, please consider starring this repository!**
