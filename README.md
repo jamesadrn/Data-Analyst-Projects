@@ -55,7 +55,7 @@ End-to-end campaign analysis from raw data processing to interactive dashboard. 
 
 **Stack:** ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**[📂 View Project →](./performance-analysis-data-analytics-campaign)** | **[📊 Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[📂 View Project →](./campaign-performance-analysis)** | **[📊 Live Dashboard](https://public.tableau.com/views/PerformanceAnalysisonDataAnalyticsCourseCampaign/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
